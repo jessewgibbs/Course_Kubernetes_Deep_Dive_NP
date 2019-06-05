@@ -21,5 +21,5 @@ spec:
         run: test
     spec:
       containers:
-      - image: nginx:1.12
+      - image: nginx:1.13
         name: nginx
